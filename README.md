@@ -2,7 +2,7 @@
 
 **Smart Finds. Happy Living.**
 
-A free bilingual (English/Arabic) static catalogue for Egypt. Orders are customer requests sent to WhatsApp **+20 101 110 5552** for manual confirmation and Taager processing.
+A free bilingual (English/Arabic) static catalogue for Egypt. Orders are customer requests sent to WhatsApp **+20 101 110 5552** for manual confirmation and supplier fulfilment.
 
 ## Publish with GitHub Pages
 1. Open the repository Settings → Pages.
@@ -10,7 +10,12 @@ A free bilingual (English/Arabic) static catalogue for Egypt. Orders are custome
 3. Select branch **main** and folder **/(root)**, then Save.
 4. Wait for GitHub Pages to publish the site at `https://sazzam2000.github.io/happiness-market/`.
 
-Prices and stock are not displayed because supplier availability and prices may change. Confirm both, plus delivery fees, before processing an order. This site does not collect payments or create Taager orders automatically.
+Prices and stock are not displayed because supplier availability and prices may change. Confirm both, plus delivery fees, before processing an order. This site does not collect payments or place supplier orders automatically.
+
+## Storefront direction
+- Customer-facing categories are Kids & Family, Tech & Gadgets, Smart Living, and Personal Care.
+- Supplier names and internal supplier references are kept out of customer-facing order messages so the store can work with multiple suppliers.
+- Product imagery and new listings should be added only after the product, image rights, stock, quality, delivery and return terms are checked.
 
 ## Customer terms
 - The bilingual customer Terms & Conditions and privacy notice are published in `terms.html`.
